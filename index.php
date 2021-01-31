@@ -10,7 +10,7 @@ get_header();
 ?>
 
     <div class="content">
-    Content raf
+    Content
     </div>
 
 <?php 
